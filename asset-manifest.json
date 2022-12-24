@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-hooks-tutorial.git/static/css/main.287ccfa2.chunk.css",
-    "main.js": "/react-hooks-tutorial.git/static/js/main.70c3ed03.chunk.js",
-    "main.js.map": "/react-hooks-tutorial.git/static/js/main.70c3ed03.chunk.js.map",
-    "runtime-main.js": "/react-hooks-tutorial.git/static/js/runtime-main.499bd9b2.js",
-    "runtime-main.js.map": "/react-hooks-tutorial.git/static/js/runtime-main.499bd9b2.js.map",
-    "static/js/2.028fc655.chunk.js": "/react-hooks-tutorial.git/static/js/2.028fc655.chunk.js",
-    "static/js/2.028fc655.chunk.js.map": "/react-hooks-tutorial.git/static/js/2.028fc655.chunk.js.map",
-    "index.html": "/react-hooks-tutorial.git/index.html",
-    "precache-manifest.fff1c06e921faf66960292cca425bfcf.js": "/react-hooks-tutorial.git/precache-manifest.fff1c06e921faf66960292cca425bfcf.js",
-    "service-worker.js": "/react-hooks-tutorial.git/service-worker.js",
-    "static/css/main.287ccfa2.chunk.css.map": "/react-hooks-tutorial.git/static/css/main.287ccfa2.chunk.css.map",
-    "static/js/2.028fc655.chunk.js.LICENSE.txt": "/react-hooks-tutorial.git/static/js/2.028fc655.chunk.js.LICENSE.txt"
+    "main.css": "/react-hooks-tutorial/static/css/main.287ccfa2.chunk.css",
+    "main.js": "/react-hooks-tutorial/static/js/main.70c3ed03.chunk.js",
+    "main.js.map": "/react-hooks-tutorial/static/js/main.70c3ed03.chunk.js.map",
+    "runtime-main.js": "/react-hooks-tutorial/static/js/runtime-main.40807ebe.js",
+    "runtime-main.js.map": "/react-hooks-tutorial/static/js/runtime-main.40807ebe.js.map",
+    "static/js/2.028fc655.chunk.js": "/react-hooks-tutorial/static/js/2.028fc655.chunk.js",
+    "static/js/2.028fc655.chunk.js.map": "/react-hooks-tutorial/static/js/2.028fc655.chunk.js.map",
+    "index.html": "/react-hooks-tutorial/index.html",
+    "precache-manifest.63cfbee696fffaf0d60871b64cafd2c5.js": "/react-hooks-tutorial/precache-manifest.63cfbee696fffaf0d60871b64cafd2c5.js",
+    "service-worker.js": "/react-hooks-tutorial/service-worker.js",
+    "static/css/main.287ccfa2.chunk.css.map": "/react-hooks-tutorial/static/css/main.287ccfa2.chunk.css.map",
+    "static/js/2.028fc655.chunk.js.LICENSE.txt": "/react-hooks-tutorial/static/js/2.028fc655.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.499bd9b2.js",
+    "static/js/runtime-main.40807ebe.js",
     "static/js/2.028fc655.chunk.js",
     "static/css/main.287ccfa2.chunk.css",
     "static/js/main.70c3ed03.chunk.js"
